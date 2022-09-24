@@ -1,0 +1,13 @@
+CMakeLists.txt
+cmake-build-debug
+.idea
+*.swo
+*.swp
+*.swn
+*.h.swo
+*.h.swp
+*.h.swn
+*.c.swo
+*.c.swp
+*.c.swn
+
